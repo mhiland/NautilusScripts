@@ -11,4 +11,5 @@ All files should be placed in /home/USER/.local/share/nautilus/scripts
 
 
 Rotate Right- allows you to rotate an image by 90 degrees CW.
+
 Rotate Left- allows you to rotate an image by 90 degrees CCW.
