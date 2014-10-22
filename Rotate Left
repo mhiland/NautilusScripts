@@ -1,4 +1,8 @@
-#! /bin/bash
-convert $@ -rotate -90 $@
-echo 'success'
+#!/bin/bash
 
+# Rotate and overwrite input image
+for i; do 
+   convert $i -rotate -90 $i
+done
+
+exit 0
