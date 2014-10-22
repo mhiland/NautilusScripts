@@ -1,4 +1,0 @@
-#! /bin/bash
-convert $@ -rotate 90 $@
-echo 'success'
-
